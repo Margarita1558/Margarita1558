@@ -1,68 +1,60 @@
+<!DOCTYPE html>
 <html>
-
 <head>
-
 <style>
-
-body {
-
- background-color: lightblue;
-
+ol{
+ backgrud:#ff9999;
+ paddig.20px
+}
+ul{
+  background:#3399ff,
+}
+ol li{
+ background:#ffe5e5;
+ color:blue,
+ padding:5px;
+ margin-left:35;
 }
 
-table, td, th {
-
- border: 1px solid;
-
- text-align: center;
-
+ul il{
+background:#cce5ff;
+color:darkblue;
+margin:5px
 }
-
-table {
-
- width: 100%;
-
- border-collapse: collapse;
-
- color: blue;
-
-}
-
 </style>
-
 </head>
-
 <body>
 
-<center><h2>Horario de clases 6º "Grupo"</h2></center>
+</style>
+</head>
+<body>
 
-<table>
+</style>
+</head>
+<body>
 
- <tr>
+<h1>styling list whith color</h1>
 
- <th>Horas</th>
+<ol>
+<li>1/4 de jugo de limones</li>
+<li>30 galletas maria molidas</li>
+<li>lata de leche condensada</li>
+<li>lata de leche evaporada</li>
+</ol>
 
- <th>Lunes</th>
+<ul>
+<li>molde</li>
+<li>tabla de picar</li>
+<li>licuadora</li>
+<li>cuchillos</li>
+<li>platos</li>
+<u>
 
- </tr>
-  <tr>
+<h1 style="background-color:red;">procedimientos</h1>
 
- <td>materia</td>
+<p style="background-color:aqua;">
+parrafo 2
+</p>
 
- <td>materia</td>
-
- </tr>
-
- <tr>
-
- <td>materia</td>
-
- <td>materia</td>
-
- </tr>
-
-</table>
-
-</body>
-
-</html>
+<body>
+<html>
